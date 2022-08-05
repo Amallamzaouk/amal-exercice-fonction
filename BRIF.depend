@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659717655 source:c:\users\pc\desktop\brif\main.c
+	<stdio.h>
+	<stdlib.h>
+
